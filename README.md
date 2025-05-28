@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y49tTL6w)
 
-Include a video/screenshots in readme
+![image](https://github.com/user-attachments/assets/a7ec0d0e-44a6-4d3e-92af-96cb6227e362)
+
 
 *Who is the program for?*
 
