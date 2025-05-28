@@ -32,7 +32,7 @@ while trys > 0:
         return endProgram(trys)
 ```
 
-*Using a Function*
+*Using a Function* (Function is made at the beginning of the code block and called at the end of the code block)
 
 ```
     def madLibs():
